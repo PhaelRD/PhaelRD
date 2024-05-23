@@ -1,14 +1,10 @@
-<h2 align="left">Olá 👋! Meu nome é Raphael Rodrigues Dias</h2>
+<h2 align="center">Olá 👋! Meu nome é Raphael Rodrigues Dias</h2>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PhaelRD&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="200" src="https://i.pinimg.com/originals/76/64/94/7664943cd276c318cb33205fe2c473d2.jpg"  />
 
 ###
 
@@ -36,6 +32,10 @@
 
 ###
 
+<img align="right" height="200" src="https://i.pinimg.com/originals/76/64/94/7664943cd276c318cb33205fe2c473d2.jpg"  />
+
+###
+
 <div align="left">
   <a href="mailto:raphaelr2014@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -50,6 +50,10 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/PhaelRD/PhaelRD/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h4 align="center">Número de Visitas</h4>
 
 ###
 
